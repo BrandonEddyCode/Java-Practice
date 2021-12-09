@@ -6,7 +6,7 @@ class Playlist {
   //main
   ArrayList<String> desertIslandPlaylist = new ArrayList<String>(); 
   //adds new ArrayList into class
-  desertIslandPlaylist.add("Innellea - It's us'");
+  desertIslandPlaylist.add("Innellea - It's us");
   desertIslandPlaylist.add("Anyma - Running");
   desertIslandPlaylist.add("Anyma - Walking");
   desertIslandPlaylist.add("Sports - Ordinary man");
@@ -33,9 +33,9 @@ int indexB = desertIslandPlaylist.indexOf("Mathame - Nothing Around Us");
 //Rewrite the value at the index of b to the value of the temporary variable.
   desertIslandPlaylist.set(indexB, tempA);
   
-  System.out.println("This is the size of the current playlist:" + desertIslandPlaylist.size());
+  System.out.println("This is the size of the current playlist:" + desertIslandPlaylist.size() + "\n");
   //prints the size of the Array
-  System.out.println(desertIslandPlaylist);
+  System.out.println(desertIslandPlaylist + "\n");
   //prints whats in the Array
 
   
