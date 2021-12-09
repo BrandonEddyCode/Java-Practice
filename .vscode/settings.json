@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "Playlist",
-        "Dice-Roll"
+        "Dice-Roll",
+        "Loop-practice"
     ]
 }
