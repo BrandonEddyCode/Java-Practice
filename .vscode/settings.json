@@ -1,8 +1,11 @@
 {
     "java.project.sourcePaths": [
         "Playlist",
+        "OurFirstGUI/src",
         "Loop-practice",
         "Dice-Roll",
-        "OurFirstGUI/src"
+        "GUISwing/src",
+        "Stuff",
+        "."
     ]
 }
